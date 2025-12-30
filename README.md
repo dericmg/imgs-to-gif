@@ -16,3 +16,12 @@ A simple Python script to convert multiple images into a single animated GIF. Su
 
 ```bash
 python image_to_gif.py
+```
+
+## Optional Arguments
+
+`--tempo` Sets frame duration in milliseconds. Default is 100.
+
+```bash
+python image_to_gif.py --tempo 200
+```
