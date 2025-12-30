@@ -1,6 +1,6 @@
 # Images to GIF
 
-A simple Python script to convert multiple images into a single animated GIF. Supports `.jpeg`, `.jpg`, and `.png` formats.
+A simple Python script to convert multiple images into a single animated GIF. Supports `.jpeg`, `.jpg`, `.png`, and `.bmp` formats.
 
 ## Features
 
